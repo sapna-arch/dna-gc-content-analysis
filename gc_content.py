@@ -1,4 +1,5 @@
-
+# Bioinformatics practical: DNA GC content analysis
+# Purpose: Calculate the percentage of G and C bases in DNA.
 # Program to calculate GC percentage of a DNA sequence
 
 sequence = input("Enter a DNA sequence: ")
